@@ -1,0 +1,1 @@
+Hi, this project is a practice project from odin-project. this is set to create a mock up googe homepage.s
